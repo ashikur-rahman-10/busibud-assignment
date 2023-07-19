@@ -1,0 +1,23 @@
+[
+    {
+        "clientImage": "https://raw.githubusercontent.com/ashikur-rahman-10/busibud-assignment/main/images/user2.png",
+        "clientName": "John Doe",
+        "clientDesignation": "CEO",
+        "ratings": 4,
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim.Proin in diam a justo sollicitudin mattis eu sagittis nunc. In hac habitasse platea dictumst."
+    },
+    {
+        "clientImage": "https://raw.githubusercontent.com/ashikur-rahman-10/busibud-assignment/main/images/user3.png",
+        "clientName": "Amanda green",
+        "clientDesignation": "Operations Manager",
+        "ratings": 4,
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim.Proin in diam a justo sollicitudin mattis eu sagittis nunc. In hac habitasse platea dictumst."
+    },
+    {
+        "clientImage": "https://raw.githubusercontent.com/ashikur-rahman-10/busibud-assignment/main/images/john-dey.png",
+        "clientName": "Sam Coopers",
+        "clientDesignation": "Customer Service Manager",
+        "ratings": 4,
+        "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sed commodo est. Pellentesque eu placerat mauris. Etiam ut maximus ante. Suspendisse varius dolor nec bibendum dignissim.Proin in diam a justo sollicitudin mattis eu sagittis nunc. In hac habitasse platea dictumst."
+    }
+]
